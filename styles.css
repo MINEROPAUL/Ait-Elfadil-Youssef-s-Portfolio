@@ -285,3 +285,9 @@ footer p {
 .footer-social-icons a:hover {
   transform: scale(1.2); /* Agrandissement au survol */
 }
+
+.resized-image {
+  width: 500px; /* Remplacez 200px par la largeur désirée */
+  height: auto; /* Pour maintenir les proportions de l'image */
+}
+
